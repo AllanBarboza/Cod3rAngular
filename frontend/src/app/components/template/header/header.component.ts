@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
   
-  title = "<PumpkinCode/>"
+  title = "<CherryCode/>"
   constructor() { }
 
   ngOnInit(): void {
