@@ -1,19 +1,24 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "CANETA BIC PRETA",
-            "price": 5.89
-        },
-        {
-            "id": 3,
-            "name": "NOTEBOOK MAC PRO",
-            "price": 12000.00
-        },
-        {
-            "id": 4,
-            "name": "SANSUNG S20+ ",
-            "price": 5000.00
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "CANETA BIC PRETA",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "NOTEBOOK MAC PRO",
+      "price": 12000
+    },
+    {
+      "id": 4,
+      "name": "SANSUNG S20+ ",
+      "price": 5000
+    },
+    {
+      "name": "Cadeira Gamer Hyper-X",
+      "price": "1885,98",
+      "id": 5
+    }
+  ]
 }
