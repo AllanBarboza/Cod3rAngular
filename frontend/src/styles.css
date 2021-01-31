@@ -17,3 +17,8 @@ body {
 .v-middle {
     vertical-align: middle;
 }
+
+.grenn-snackBar {
+    background-color: #008000;
+    color: white;
+}
